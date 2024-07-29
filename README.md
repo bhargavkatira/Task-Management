@@ -6,7 +6,7 @@ This is a simple task management system built with Express and MongoDB. It uses 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/bhargavkatira/Task-Management
     ```
 2. Install dependencies:
     ```bash
